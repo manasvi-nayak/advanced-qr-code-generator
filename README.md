@@ -17,7 +17,7 @@ Generate QR codes for text, WiFi, and contact details.
 - Pillow
 
 ## ▶️ Live Demo
-(Add your link)
+https://advanced-qr-code-generator-a22mbgbnap8tmjftmwr8pq.streamlit.app/
 
 ## ▶️ Run
 pip install -r requirements.txt  
